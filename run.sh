@@ -1,1 +1,1 @@
-perl bitshiftvariations.min.pl | aplay
+perl bitshiftvariations.pl | aplay
